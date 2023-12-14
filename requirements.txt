@@ -1,0 +1,4 @@
+-c https://raw.githubusercontent.com/apache/airflow/constraints-2.6.0/constraints-3.10.txt
+apache-airflow[celery, postgres, google, cncf.kubernetes]==2.6.0
+redis==3.5.3
+
